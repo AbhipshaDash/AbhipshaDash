@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhipsha</h1>
-<h3 align="center">a passionate sophomore interested in developing fields of AI-ML</h3>
+<h3 align="center">a passionate junior interested in developing fields of AI-ML</h3>
 
 # 💫 About Me:
 
